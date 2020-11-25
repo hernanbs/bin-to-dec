@@ -1,5 +1,10 @@
-
-# Bin2Dec
+<h1 align="center">Bin2Dec</h1>
+<p align="center">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hernanbs/bin-to-dec?style=flat-square" />
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/hernanbs/bin-to-dec?color=%232a733b&style=flat-square" />
+<img alt="GitHub" src="https://img.shields.io/github/license/hernanbs/bin-to-dec?color=%236c66f0&style=flat-square" />
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hernanbs/bin-to-dec?style=flat-square">
+</p>
 
 ## 🌀Desafio
 
