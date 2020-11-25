@@ -26,7 +26,7 @@ Construir um conversor de números binários em números decimais. Baseado no pr
 ## 🚀**Recursos bônus**
 
 - [x]  O usuário pode inserir um número variável de dígitos binários.
-- [ ]  Adicionar commitizen e husty ao repositório.
+- [x]  Adicionar commitizen e husty ao repositório.
 
 ## 📝Rascunho e Comentários
 
