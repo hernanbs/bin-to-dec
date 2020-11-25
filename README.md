@@ -1,30 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Bin2Dec
 
-First, run the development server:
+## 🌀Desafio
 
+Construir um conversor de números binários em números decimais. Baseado no projeto do repositório:
+
+[https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
+
+## 🚧Requisitos
+
+- [x]  Não usar Array para conter os dígitos binários inseridos pelo usuário
+- [x]  A determinação do equivalente decimal de um dígito binário particular na sequência deve ser calculada usando uma única função matemática, por exemplo, o logaritmo natural. Depende de você descobrir qual função usar.
+
+## 🧢**Histórias de usuários**
+
+- [x]  O usuário pode inserir até 8 dígitos binários em um campo de entrada.
+- [x]  O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido.
+- [x]  O usuário visualiza os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário que foi inserido.
+
+## 🚀**Recursos bônus**
+
+- [x]  O usuário pode inserir um número variável de dígitos binários.
+- [ ]  Adicionar commitizen e husty ao repositório.
+
+## 📝Rascunho e Comentários
+
+- [ ]  Usar Styled Components
+- [ ]  Mudar de Bootstrap para Material UI
+- [x]  Utilizar react-bootstrap
+- [x]  Adicionar Prettier ao vscode.
+- [x]  Adicionar Eslint ao vscode.
+- [x]  Adicionar EditorConfig
+- [x]  Utilizar React para criar projeto.
+- [x]  Utilizar Nextjs
+
+## 💻 Como executar o projeto
+
+* Iniciar projeto para desenvolvimento
 ```bash
-npm run dev
-# or
 yarn dev
+```
+* Iniciar projeto para produção
+```bash
+yarn build
+yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
