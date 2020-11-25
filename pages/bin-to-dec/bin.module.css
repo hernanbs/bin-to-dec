@@ -1,0 +1,12 @@
+.badgeMargin {
+  margin-right: 10px;
+}
+
+.converterbox {
+  display: flex;
+}
+
+.converterStyle {
+  width: 20rem;
+}
+

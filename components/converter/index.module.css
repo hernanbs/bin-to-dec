@@ -1,0 +1,15 @@
+.badgeMargin {
+  margin-right: 10px;
+}
+
+.txtForm {
+  border: solid 1px;
+  padding: 5px;
+  vertical-align: middle;
+  text-align: center;
+}
+.toast{
+  position: absolute;
+  top: 0px;
+}
+
